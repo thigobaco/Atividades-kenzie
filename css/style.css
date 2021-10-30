@@ -1,0 +1,30 @@
+/* <seletor>{
+    <Propriedades>: <valor:>;
+} */
+@charset "UTF-8"; 
+fieldset {
+    border-color: #cecece;
+    margin: 20px;
+}
+fieldset#sexo {
+    width: 150px;
+}
+form {
+    width: 500px;
+    margin: 0 auto;
+}
+input{
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size:13pt
+}
+input:hover{
+    background-color: #a1e3ff;
+}
+h1 {
+
+    color:rgb(106, 83, 209)   
+}
+fieldset#usuario{
+    background: url"";
+}
