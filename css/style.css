@@ -3,7 +3,7 @@
 } */
 @charset "UTF-8"; 
 fieldset {
-    border-color: #cecece;
+    border-color: #a575e4;
     margin: 20px;
 }
 fieldset#sexo {
@@ -19,12 +19,24 @@ input{
     font-size:13pt
 }
 input:hover{
-    background-color: #a1e3ff;
+    background-color: #99b6c7;
 }
 h1 {
+   
 
-    color:rgb(106, 83, 209)   
+    color:rgb(180, 42, 24)   
 }
 fieldset#usuario{
     background: url"";
 }
+p{
+    color:rgb(29, 72, 192)
+}
+legend{
+    color:crimson
+}
+
+/**
+inline, id, classe, Elemento
+* 0 0 0 0
+*/
